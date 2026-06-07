@@ -77,4 +77,4 @@ company-rag/
 
 ## Related Project
 
-This project extends the [Company Intelligence Extractor](../ai_scrapper_api/) which extracted and clustered the underlying company data using the Companies House API, HDBSCAN, and UMAP.
+This project extends the [[Company Intelligence Extractor](https://github.com/ravindrareddy-mallireddy/Company-Intelligence-Extractor)] which extracted and clustered the underlying company data using the Companies House API, HDBSCAN, and UMAP.
